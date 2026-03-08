@@ -412,4 +412,4 @@ Data Visualization
 
 
 
-Model yapısı:
+
