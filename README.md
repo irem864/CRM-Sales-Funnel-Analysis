@@ -1,8 +1,12 @@
 # CRM Sales Funnel & Revenue Dashboard (Power BI)
 
-![Star Schema](star_schema.png)
 
 ![Dashboard Screenshot](dashboard.png)
+
+
+![Star Schema](star_schema.png)
+
+
 
 ---
 
@@ -267,7 +271,7 @@ products
 
 sales_teams
 
-# Schema structure:
+# Schema Structure:
 
    accounts
              \
